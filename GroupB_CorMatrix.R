@@ -196,8 +196,8 @@ qqnorm(res.sq.bc)
 qqline(res.sq.bc)
 
 
-
-anova(lm.sq.fwd.bc) # RUN THIS FOR F-VALUES
+###### F-VALUES ######
+anova(lm.usable.full)
 
 
 ######## correlation matrices ########
