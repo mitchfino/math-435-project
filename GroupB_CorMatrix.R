@@ -197,6 +197,9 @@ qqline(res.sq.bc)
 
 
 
+anova(lm.sq.fwd.bc) # RUN THIS FOR F-VALUES
+
+
 ######## correlation matrices ########
 
 # correlation matrix doesn't work for more that 12 of them...
